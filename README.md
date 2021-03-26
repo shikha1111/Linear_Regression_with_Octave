@@ -1,1 +1,1 @@
-# Linear_Regression_with_Octave
+# Coursera Exercise on Linear Regression
